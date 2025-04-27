@@ -1,10 +1,10 @@
-streamlit
-matplotlib
 pandas
 numpy
+matplotlib
 seaborn
-scikit-learn
-plotly
+networkx
 mlxtend
+plotly
+scikit-learn
 openpyxl
 xlrd
