@@ -1,0 +1,17 @@
+[browser.serverAddress]
+
+[server]
+
+[theme]
+
+[runner]
+[runner.packages]
+pandas = ""
+numpy = ""
+matplotlib = ""
+seaborn = ""
+scikit-learn = ""
+plotly = ""
+mlxtend = ""
+openpyxl = ""
+xlrd = ""
